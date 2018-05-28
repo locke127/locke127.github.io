@@ -14,16 +14,14 @@
 					<string>http://game.cdn.betophall.com/data/ios/pubg.ipa</string>
 				</dict>
 				<dict>
-					<key>url</key>
-					<string>http://theme.cdn.betophall.com/data/ios/BetopGame-2.png</string>
+					
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
 					<true/>
 				</dict>
 				<dict>
-					<key>url</key>
-					<string>http://theme.cdn.betophall.com/data/ios/BetopGame-1.png</string>
+					
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
